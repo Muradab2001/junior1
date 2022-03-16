@@ -1,0 +1,255 @@
+
+*{
+    padding: 0;
+    margin:0;
+}
+.flex{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    padding: 2rem;
+    position: fixed;
+    background-color: white;
+   
+}
+.flex h1{
+    margin-left: 4rem;
+     font-color: #666
+}
+.list li{
+    display: inline;
+    margin-right: 2rem;
+
+    
+}
+.list li a{
+    color: #4c4c4c;
+    text-decoration: none;
+    
+}
+.list li a:hover{
+    color: blue;
+    
+}
+.list{
+    padding-top: 9px;
+    margin-left: 27rem;
+    
+}
+.bg-back{
+    background: url(../img/bg-img.jpg);
+    height: 39rem;
+    background-size: cover;
+    background-position: center;
+}
+.text{
+    padding-top: 12rem;
+}
+.text h1{
+    color: #fff;
+    font-size: 60px;
+    line-height: 64px;
+    font-family: inherit;
+    font-weight: 400;
+}
+.text p{
+   margin: 1rem 0;
+    color:  #fff;
+}
+.text button{
+    padding: 1rem 3rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.first{
+    margin-right: 0.5rem;
+    background: #5d47d7;
+    border-color: #5d47d7;
+}
+.first:hover{
+    background: #745cf9;
+    border-color: #745cf9;
+    transition: all 2s ease-out;
+}
+.second{
+    background-color: transparent;
+}
+.second:hover{
+    background: #fff;
+    border-color: #fff;
+    color: black;
+    transition: all 1s ease-out;
+
+}
+.png img{
+   height: 29rem;
+    width: 41rem;
+    margin-left: 6rem;
+    margin-top: -50px;
+}
+.seo{
+    display: flex;
+    margin-top: 10rem;
+    
+}
+.text2{
+    width: 50%;
+    margin-left: 8rem;
+}
+.text2 h3{
+  
+    font-size: 30px;
+    line-height: 33px;
+    font-weight: 400;
+    color: #0e1015;
+    
+}
+.text2 p{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: raleway,helvetica neue,Helvetica,Arial,sans-serif;
+    color: #8c979e;
+    width: 70%;
+}
+.text2 button{
+    background-color: #745cf9;
+    color: white;
+    font-weight: 600;
+    line-height: 24px;
+    width: 13rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-top: 30px;
+    border-color: #745cf9;
+}
+.text2 button:hover{
+    background: #5d47d7;
+    border-color: #5d47d7;
+}
+.Portfolio{
+    display: flex;
+    margin-top: 10rem;
+}
+.png2 img{
+    height: 29rem;
+    width: 41rem;
+    margin-right: 3rem;
+    margin-top: -50px;
+}
+.text3 h3{
+    font-size: 30px;
+    line-height: 33px;
+    font-weight: 400;
+    color: #0e1015;
+}
+.text3{
+    width: 50%;
+    margin-left: 8rem;
+}
+.text3 p{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: raleway,helvetica neue,Helvetica,Arial,sans-serif;
+    color: #8c979e;
+    width: 70%;
+}
+.text3 button{
+    background-color: #745cf9;
+    color: white;
+    font-weight: 600;
+    line-height: 24px;
+    width: 13rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-top: 30px;
+    border-color: #745cf9;
+}
+.text3 button:hover{
+    background: #5d47d7;
+    border-color: #5d47d7;
+}
+.backfon{
+    background-image: url(../img/background2.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.fontext{
+    padding-top: 8rem;
+}
+.fontext h1{
+    color: #fff;
+    font-size: 60px;
+    line-height: 64px;
+    font-family: inherit;
+    font-weight: 400;
+    padding-top: 15px;
+}
+.fontext p{
+    margin: 1rem 0;
+    color:  #fff;
+    width: 80%;
+}
+.fontext button{
+    background-color: #745cf9;
+    color: white;
+    font-weight: 600;
+    line-height: 24px;
+    width: 13rem;
+    padding-bottom: 1rem;
+    border-color: #745cf9;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.fontext button:hover{
+    background: #5d47d7;
+    border-color: #5d47d7;
+}
+.Limitless{
+
+background-color: white;
+width: 100%;
+height: 100%;
+}
+.download {
+margin-top: 9rem;
+
+}
+.download button{
+    margin-top: 20px;
+    background-color: #745cf9;
+    color: white;
+    font-weight: 600;
+    line-height: 24px;
+    width: 13rem;
+    padding-bottom: 1rem;
+    border-color: #745cf9;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.download button:hover{
+    background: #5d47d7;
+    border-color: #5d47d7;
+}
+
+
+.download p{
+    width: 70%;
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: raleway,helvetica neue,Helvetica,Arial,sans-serif;
+    color: #8c979e;
+    width: 70%;
+}
+.download h1{
+    font-size: 30px;
+    line-height: 33px;
+    font-weight: 400;
+    color: #0e1015;
+}
